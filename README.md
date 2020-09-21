@@ -2,6 +2,9 @@
 
 ## Generate Xcode project
 
+![CI Linux](https://github.com/horothesun/ConcurrentArray/workflows/CI%20Linux/badge.svg)
+![CI macOS](https://github.com/horothesun/ConcurrentArray/workflows/CI%20macOS/badge.svg)
+
 ```bash
 swift package generate-xcodeproj
 ```
