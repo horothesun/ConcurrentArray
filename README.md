@@ -3,6 +3,8 @@
 ![CI Linux](https://github.com/horothesun/ConcurrentArray/workflows/CI%20Linux/badge.svg)
 ![CI macOS](https://github.com/horothesun/ConcurrentArray/workflows/CI%20macOS/badge.svg)
 
+Thread-safe Swift array.
+
 ## Generate Xcode project
 
 ```bash
